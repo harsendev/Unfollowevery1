@@ -3,7 +3,7 @@ Some times my twitter feed is a mess. Here is an instruction on how to give it a
 
 Just follow this 5 Steps:
 
-step 1: sign in to your twitter account
+step 1: sign in to your Twitter account
 
 step 2: Click on following
 
