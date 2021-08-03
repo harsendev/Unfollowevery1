@@ -1,6 +1,11 @@
 # How to unfollow everyone on Twitter
+You might wonder, "why did he write this programme?" 
+Well the first reason I wrote this programme is just for fun and call to my mind how JS works because I haven't coded on it for a year //perhaps more, I don't remember
 
-Some times my twitter feed is a mess. Here is an instruction on how to give it a fresh start.
+But actually, sometimes you need to start everything with a clear list. So the first thing that you can do - clear your Twitter Feed //just unfollow everyone =), that's what I did 
+And I guess a lot of you have more than 100 pages following, so my programme can make it easier for you
+
+Here are steps that you need to follow =)
 
 Step 1: sign in to your Twitter account
 
